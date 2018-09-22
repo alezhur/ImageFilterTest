@@ -1,2 +1,2 @@
-include ':app',
+include ':app', ':feature-image-filter',
         ':feature-pick-image'
